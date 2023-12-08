@@ -2,7 +2,15 @@
 Special thank to Microsoft for providing such a tool and to Rhese for his help <3
 
 "# Autogen-and-simple-Streamlit" 
-Setup LM Studio or any other tool you are familiar with , download your LLM model(s) and setup your server: ( default is "http://localhost:1234/v1".) 
+
+
+Setup LM Studio or any other tool you are familiar with ,
+
+download your LLM model(s) and setup your server: ( default is "http://localhost:1234/v1".) 
+
+
+in terminal
+
 
 Setup a new environnement
 
