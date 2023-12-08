@@ -1,4 +1,4 @@
-µµ Will update and implement Langchain in a further update + write a proper description and tutorial on ''how to'' from A to Z. 
+** Will update and implement Langchain in a further update + write a proper description and tutorial on ''how to'' from A to Z. 
 Special thank to Microsoft for providing such a tool and to Rhese for his help <3
 
 "# Autogen-and-simple-Streamlit" 
